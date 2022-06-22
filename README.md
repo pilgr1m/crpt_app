@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+### small app about crypto (under development)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ##### `npm start` 
 Runs the app in the development mode.
